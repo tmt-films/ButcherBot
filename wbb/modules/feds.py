@@ -45,7 +45,7 @@ You can even designate federation admins, so your trusted admin can ban all the 
 """
 
 
-SUPPORT_CHAT = "@WBBSupport"
+SUPPORT_CHAT = "@DUNEBOTS"
 
 
 @app.on_message(filters.command("newfed"))
